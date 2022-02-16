@@ -19,3 +19,15 @@
 4. add owner
 5. remove owner
 6. change threshold
+
+
+# To Do
+
+1. MultiSignutare
+2. gnosis Smart contract Working
+
+# issues
+
+Gove finance
+
+I tried Create DAO on https://gove.finance/ but not created and get error your contract are not verified 
